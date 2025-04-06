@@ -1,0 +1,1 @@
+void copy_vec(int *vec, int n, int *vec2);

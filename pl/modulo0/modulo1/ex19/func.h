@@ -1,0 +1,1 @@
+void swap(short *vec, short *vec2, int size);
