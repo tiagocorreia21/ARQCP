@@ -1,0 +1,1 @@
+int sum_triangular_matrix(int mat[][], int lin);

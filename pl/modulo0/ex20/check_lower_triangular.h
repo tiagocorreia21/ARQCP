@@ -1,0 +1,1 @@
+int check_lower_triangular_matrix(int mat[][], int lin, int col);
